@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/thapa/static/css/main.fb366e4f.chunk.css",
+    "main.js": "/thapa/static/js/main.79f20d76.chunk.js",
+    "main.js.map": "/thapa/static/js/main.79f20d76.chunk.js.map",
+    "runtime-main.js": "/thapa/static/js/runtime-main.9241bff8.js",
+    "runtime-main.js.map": "/thapa/static/js/runtime-main.9241bff8.js.map",
+    "static/js/2.8600f5ec.chunk.js": "/thapa/static/js/2.8600f5ec.chunk.js",
+    "static/js/2.8600f5ec.chunk.js.map": "/thapa/static/js/2.8600f5ec.chunk.js.map",
+    "index.html": "/thapa/index.html",
+    "static/css/main.fb366e4f.chunk.css.map": "/thapa/static/css/main.fb366e4f.chunk.css.map",
+    "static/js/2.8600f5ec.chunk.js.LICENSE.txt": "/thapa/static/js/2.8600f5ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9241bff8.js",
+    "static/js/2.8600f5ec.chunk.js",
+    "static/css/main.fb366e4f.chunk.css",
+    "static/js/main.79f20d76.chunk.js"
+  ]
+}
